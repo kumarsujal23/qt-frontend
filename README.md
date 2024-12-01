@@ -1,6 +1,5 @@
 # qt-frontend
-app in pyqt5<br/>
-How to run locally:
+## How to run locally:
 1. Create virtual environment with python 3.9 (some issues with python version > 3.9)
 2. Install qt5 and qt5-tools:
    ```python
